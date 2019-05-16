@@ -1,0 +1,12 @@
+.Root {
+  flex-grow: 1;
+}
+.Menu {
+  margin-top: 80px;
+}
+
+@media (max-width: 500px) {
+  .Menu {
+    margin-top: 40px;
+  }
+}

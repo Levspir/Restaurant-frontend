@@ -1,0 +1,9 @@
+.Dish {
+  margin: 10px;
+  width: 300px;
+  padding: 300px;
+  border: 1px solid #ccc;
+}
+.Card {
+  width: 275px;
+}
